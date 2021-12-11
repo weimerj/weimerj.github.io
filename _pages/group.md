@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Group
 permalink: /group/
 ---
 
-### Current Members
+### Current Group
 - Taylor Carpenter 
   -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
 - Sooyong Jang 
