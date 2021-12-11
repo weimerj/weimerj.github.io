@@ -3,8 +3,7 @@ layout: page
 permalink: /
 ---
 
-<img align="left" height="250" src="images/weimer-small.png">
-
+<img align="left" height="400" src="images/weimer-small.png">
 
 **Research Assistant Professor**  
 Department of Computer and Information Science  
@@ -15,6 +14,8 @@ University of Pennsylvania
 Department of Biomedical and Health Informatics  
 Children's Hospital of Philadelphia  
 
+## Contact
+
 Office: Levine Hall, Rm 160  
 Phone: 215-573-0309  
 Fax: 215-898-8543  
@@ -23,8 +24,6 @@ Email: weimerj@seas.upenn.edu
 Postal: 3330 Walnut Street  
  	Levine Hall Room 160  
  	Philadelphia, PA 19104  
-
-
 
 
 ## About
@@ -41,7 +40,8 @@ challenges arising from "thin data", which can be caused by unmodeled variabilit
 anomalies, and sensing constraints. Find out more here. 
 
 I am a Co-Founder of 
-[Neuralert Technologies](https://neuralerttechnologies.com/){:target="_blank"} and Vasowatch.
+[Neuralert Technologies](https://neuralerttechnologies.com/){:target="_blank"} 
+and Vasowatch.
 
 
 ## News
