@@ -3,10 +3,9 @@ layout: page
 permalink: /
 ---
 
-<img align="left" height="100" src="images/weimer-small.png">
+<img align="left" height="250" src="images/weimer-small.png">
 
 
-![James Weimer](images/weimer-small.png){:style="float: right;margin-right: 7px;margin-top: 7px;height: 100"}
 
 
 
