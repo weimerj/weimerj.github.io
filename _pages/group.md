@@ -6,7 +6,7 @@ permalink: /group/
 
 ### Current Members
 - Taylor Carpenter 
-  _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
+  -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
 - Sooyong Jang 
   -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
 - [Shawn Li](https://fling.seas.upenn.edu/~xianl/wiki)
