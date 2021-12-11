@@ -15,7 +15,7 @@ permalink: /group/
   -- _Ph.D. Graduate Student  (co-advised w/ Insup Lee)_
 - Sydney Pugh 
   -- _Ph.D. Graduate Student  (co-advised w/ Insup Lee)_
-- Kaustubh Sridhar 
+- [Kaustubh Sridhar](https://kaustubhsridhar.github.io/)
   -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
 - [Amanda Watson](https://fling.seas.upenn.edu/~aawatson) 
   -- _Postdoctoral Researcher (co-advised w/ Insup Lee)_
