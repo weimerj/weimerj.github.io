@@ -1,20 +1,7 @@
 ---
-layout: page
+layout: home
 permalink: /
 ---
-<p class="entry">
-<img align="left" height="400" src="images/weimer-small.png">
-
-**Research Assistant Professor**  
-Department of Computer and Information Science  
-School of Engineering and Applied Sciences  
-University of Pennsylvania  
-
-**Research Assistant Professor**  
-Department of Biomedical and Health Informatics  
-Children's Hospital of Philadelphia  
-
-</p>
 
 ## Contact
 
