@@ -15,7 +15,7 @@ Postal: 3330 Walnut Street
  	Philadelphia, PA 19104  
 
 
-## About
+
 I am a Research Assistant Professor in the Department of Computer and Information Science at the 
 University of Pennsylvania and in the Department of Biomedical and Health Informatics at the 
 Children's Hospital of Philadelphia. 
