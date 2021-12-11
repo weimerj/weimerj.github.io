@@ -12,12 +12,13 @@ permalink: /publications/
    Arxiv, 2019. 
    
 0. Radoslav Ivanov, Nikolay Atanasov, Miroslav Pajic, James Weimer, George J. Pappas, and Insup Lee. 
-   "[Continuous Estimation Using Context-Dependent Discrete Measurements]{pdf/2019-TAC-context.pdf}(:target="_blank")." IEEE Transactions on Automatic Control , 2019. 
+   "[Continuous Estimation Using Context-Dependent Discrete Measurements](pdf/2019-TAC-context.pdf){:target="_blank"}." IEEE Transactions on Automatic Control , 2019. 
 
 0. sdfsds
    sdfds 
-   
 {: reversed="reversed"}
+   
+
 
 
 ### Book Chapters
