@@ -1,9 +1,18 @@
 ---
-layout: home
+layout: page
 permalink: /
 ---
 
-## Contact
+<img align="left" height="400" src="images/weimer-small.png">
+
+**Research Assistant Professor**  
+Department of Computer and Information Science  
+School of Engineering and Applied Sciences  
+University of Pennsylvania  
+
+**Research Assistant Professor**  
+Department of Biomedical and Health Informatics  
+Children's Hospital of Philadelphia  
 
 Office: Levine Hall, Rm 160  
 Phone: 215-573-0309  
@@ -15,6 +24,7 @@ Postal: 3330 Walnut Street
  	Philadelphia, PA 19104  
 
 
+## About
 
 I am a Research Assistant Professor in the Department of Computer and Information Science at the 
 University of Pennsylvania and in the Department of Biomedical and Health Informatics at the 
