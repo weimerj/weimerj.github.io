@@ -3,24 +3,22 @@ layout: page
 permalink: /
 ---
 
-### Current Members
-- Taylor Carpenter 
-  -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
-- Sooyong Jang 
-  -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
-- [Shawn Li](https://fling.seas.upenn.edu/~xianl/wiki)
-  -- _Postdoctoral Researcher (co-advised w/ Insup Lee)_
-- Pengyuan (Eric) Lu 
-  -- _Ph.D. Graduate Student  (co-advised w/ Insup Lee)_
-- Sydney Pugh 
-  -- _Ph.D. Graduate Student  (co-advised w/ Insup Lee)_
-- [Kaustubh Sridhar](https://kaustubhsridhar.github.io/)
-  -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
-- [Amanda Watson](https://fling.seas.upenn.edu/~aawatson) 
-  -- _Postdoctoral Researcher (co-advised w/ Insup Lee)_
 
 
-### Alumni
-- [Radoslav Ivanov](https://www.seas.upenn.edu/~rivanov)
-  -- _Assistant professor, Department of Computer Science, Rensselaer Polytechnic University_
 
+### About
+I am a Research Assistant Professor in the Department of Computer and Information Science at the 
+University of Pennsylvania and in the Department of Biomedical and Health Informatics at the 
+Children's Hospital of Philadelphia. I am a member of the 
+[PRECISE Center](https://precise.seas.upenn.edu/){:target="_blank"} 
+and a Co-Founder of 
+Neuralert Technologies -- a wearable medical device company that detects symptoms of potential stroke. 
+My research develops foundations and tools for safety guarantees and predictable performance of 
+learning-enabled cyber-physical systems (CPS) - primarily targeting the internet-of-medical-things (IoMT) and
+autonomous vehicles (AVs). Specifically, my research aims to develop tools and techniques to address 
+challenges arising from "thin data", which can be caused by unmodeled variability, dataset shifts, 
+anomalies, and sensing constraints. Find out more here. 
+
+
+
+### News
