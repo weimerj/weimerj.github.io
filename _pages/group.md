@@ -8,19 +8,19 @@ permalink: /group/
   -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
 - Sooyong Jang 
   -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
-- [Shawn Li](https://fling.seas.upenn.edu/~xianl/wiki)
+- [Shawn Li](https://fling.seas.upenn.edu/~xianl/wiki){:target="_blank"}
   -- _Postdoctoral Researcher (co-advised w/ Insup Lee)_
 - Pengyuan (Eric) Lu 
   -- _Ph.D. Graduate Student  (co-advised w/ Insup Lee)_
 - Sydney Pugh 
   -- _Ph.D. Graduate Student  (co-advised w/ Insup Lee)_
-- [Kaustubh Sridhar](https://kaustubhsridhar.github.io/)
+- [Kaustubh Sridhar](https://kaustubhsridhar.github.io/){:target="_blank"}
   -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
-- [Amanda Watson](https://fling.seas.upenn.edu/~aawatson) 
+- [Amanda Watson](https://fling.seas.upenn.edu/~aawatson){:target="_blank"} 
   -- _Postdoctoral Researcher (co-advised w/ Insup Lee)_
 
 
 ### Alumni
-- [Radoslav Ivanov](https://www.seas.upenn.edu/~rivanov)
+- [Radoslav Ivanov](https://www.seas.upenn.edu/~rivanov){:target="_blank"}
   -- _Assistant professor, Department of Computer Science, Rensselaer Polytechnic University_
 
