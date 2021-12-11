@@ -3,9 +3,10 @@ layout: page
 permalink: /
 ---
 
+<img align="left" src="images/weimer-small.png">
 
 
-
+![James Weimer](images/weimer-small.png){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 
 
 
@@ -14,7 +15,7 @@ I am a Research Assistant Professor in the Department of Computer and Informatio
 University of Pennsylvania and in the Department of Biomedical and Health Informatics at the 
 Children's Hospital of Philadelphia. 
 I am a member of the [PRECISE Center](https://precise.seas.upenn.edu/){:target="_blank"} 
-and a technical advisor for the [Center for Devices, Health, and Technology](https://healthtech.upenn.edu/){:target="_blank"}.
+and the [Center for Devices, Health, and Technology](https://healthtech.upenn.edu/){:target="_blank"}.
 
 My research develops foundations and tools for safety guarantees and predictable performance of 
 learning-enabled cyber-physical systems (CPS) - primarily targeting the internet-of-medical-things (IoMT) and
