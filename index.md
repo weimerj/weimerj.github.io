@@ -26,9 +26,11 @@ Postal: 3330 Walnut Street
 
 ## About
 
-I am a Research Assistant Professor in the Department of Computer and Information Science at the 
-University of Pennsylvania and in the Department of Biomedical and Health Informatics at the 
-Children's Hospital of Philadelphia. 
+I am a Research Assistant Professor in the 
+[Department of Computer and Information Science](https://www.cis.upenn.edu/){:target="_blank"}
+at the University of Pennsylvania and in the 
+[Department of Biomedical and Health Informatics](https://www.chop.edu/centers-programs/department-biomedical-and-health-informatics-dbhi){:target="_blank"}
+at the Children's Hospital of Philadelphia. 
 I am a member of the [PRECISE Center](https://precise.seas.upenn.edu/){:target="_blank"} 
 and the [Center for Devices, Health, and Technology](https://healthtech.upenn.edu/){:target="_blank"}.
 
