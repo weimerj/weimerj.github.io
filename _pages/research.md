@@ -3,7 +3,9 @@ layout: page
 permalink: /research/
 ---
 
-![James Weimer](images/weimer-small.png  "James Weimer"){: style="float: right; margin-left: 1em; height=300;"}
+## Learning-Enabled Cyber-Physical Systems
+
+![James Weimer](images/overview.png  "Research Overview")
 
 
 My research aims to develop techniques and tools for the design and analysis of learning-enabled cyber-physical
@@ -17,7 +19,7 @@ requires an interdisciplinary approach - thus, I openly collaborate with medical
 transition my research into practice. 
 
 
-Q: What are the technical challenges of LE-CPS?  
+### Q: What are the technical challenges of LE-CPS?  
 
 A: Traditional cyber-physical systems (CPS) are safety-critical embedded systems that feature tight coupling
 between communication and computation used to control complex, dynamic, and uncertain physical/physiological plants.
@@ -28,7 +30,7 @@ Second, assuring safety necessitates the ability to provide actionable feedback 
 situations where confidence in learning degrades. Third, closing-the-loop with learning-enabled components presents
 challenges for safety and security assurance. 
 
-Q: What is "thin data"?
+### Q: What is "thin data"?
 
 A: While empirical data is often a significant source of this background knowledge in LE-CPS, it can also be limited,
 sparse, or "thin" due to unmodeled variability, dataset shifts, anomalies, and sensing constraints. Consequently,
