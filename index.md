@@ -5,26 +5,7 @@ permalink: /
 
 ![James Weimer](images/weimer-small.png  "James Weimer"){: style="float: left; margin-right: 1em; border-radius: 50%; height: 20em"}
 
-**Research Assistant Professor**  
-Department of Computer and Information Science  
-School of Engineering and Applied Sciences  
-University of Pennsylvania  
 
-**Research Assistant Professor**  
-Department of Biomedical and Health Informatics  
-Children's Hospital of Philadelphia  
-
-Office: Levine Hall, Rm 160  
-Phone: 215-573-0309   
-Fax: 215-898-8543  
-
-Email: weimerj@seas.upenn.edu  
-Postal: 3330 Walnut Street  
- 	Levine Hall Room 160  
- 	Philadelphia, PA 19104  
-
-
-## About
 
 I am a Research Assistant Professor in the 
 [Department of Computer and Information Science](https://www.cis.upenn.edu/){:target="_blank"}
