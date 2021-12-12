@@ -25,5 +25,8 @@ I am a Co-Founder of
 [Neuralert Technologies](https://neuralerttechnologies.com/){:target="_blank"} 
 and Vasowatch.
 
+Curriculum Vitae: 
+[html version](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/edit?usp=sharing){:target="_blank"}
+, [pdf version -- takes a while to load](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/export?format=pdf){:target="_blank"}
 
 ## News
