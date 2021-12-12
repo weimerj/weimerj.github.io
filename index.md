@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-![James Weimer](images/weimer-small.png  "James Weimer"){: style="float: left; margin-right: 1em; border-radius: 50%; height: 20em"}
+![James Weimer](images/weimer-small.png  "James Weimer"){: style="float: left; margin-right: 1em; border-radius: 50%; height: 25em"}
 
 
 
