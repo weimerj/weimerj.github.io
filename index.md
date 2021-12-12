@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-![James Weimer](images/weimer-small.png  "James Weimer"){: style="float: left; margin-right: 1em; border-radius: 50%; height: 10em"}
+![James Weimer](images/weimer-small.png  "James Weimer"){: style="float: left; margin-right: 1em; border-radius: 50%; height: 20em"}
 
 **Research Assistant Professor**  
 Department of Computer and Information Science  
