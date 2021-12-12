@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
-<img align="left" height="400" src="images/weimer-small.png">
+![James Weimer](images/weimer-small.png  "James Weimer")
 
 **Research Assistant Professor**  
 Department of Computer and Information Science  
