@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Learning-Enabled Cyber-Physical Systems
 
-![James Weimer](images/overview.png  "Research Overview")
+![Research Overview](images/overview.png  "Research Overview")
 
 
 My research aims to develop techniques and tools for the design and analysis of learning-enabled cyber-physical
