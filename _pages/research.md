@@ -5,9 +5,6 @@ permalink: /research/
 
 ## Learning-Enabled Cyber-Physical Systems
 
-![Research Overview](../images/overview.png  "Research Overview")
-
-
 My research aims to develop techniques and tools for the design and analysis of learning-enabled cyber-physical
 systems (LE-CPS) with thin data primarily targeting applications in the internet-of-medical-things (IoMT)
 and autonomous vehicles (AVs). These systems present a unique combination of challenges stemming from the
@@ -16,12 +13,14 @@ applications -- challenges that are not well handled by existing robust engineer
 challenges, my research aims to develop novel design and analysis techniques for (i) interoperable IoT devices,
 (ii) actionable decision support, and (iii) safe learning-enabled control. Maximizing the impact of my research
 requires an interdisciplinary approach - thus, I openly collaborate with medical professionals and industry to
-transition my research into practice. 
+transition my research into practice.
+
+![Research Overview](../images/overview.png  "Research Overview")
 
 
-### Q: What are the technical challenges of LE-CPS?  
+### What are the technical challenges of LE-CPS?  
 
-A: Traditional cyber-physical systems (CPS) are safety-critical embedded systems that feature tight coupling
+Traditional cyber-physical systems (CPS) are safety-critical embedded systems that feature tight coupling
 between communication and computation used to control complex, dynamic, and uncertain physical/physiological plants.
 Learning-enabled CPS (LE-CPS) additionally incorporate components whose behavior is driven by "background knowledge"
 acquired and updated through a "learning process". The design and analysis of LE-CPS presents multiple technical
@@ -30,7 +29,7 @@ Second, assuring safety necessitates the ability to provide actionable feedback 
 situations where confidence in learning degrades. Third, closing-the-loop with learning-enabled components presents
 challenges for safety and security assurance. 
 
-### Q: What is "thin data"?
+### What is "thin data"?
 
 A: While empirical data is often a significant source of this background knowledge in LE-CPS, it can also be limited,
 sparse, or "thin" due to unmodeled variability, dataset shifts, anomalies, and sensing constraints. Consequently,
@@ -51,3 +50,6 @@ images, even children would not be fooled by these adversarial examples due to t
 Thus, this proposal aims to re-think robust and adaptive machine learning to unlock the key to generative and 
 flexible learning by understanding how very young children approach the world.  Our goal is to advent truly 
 robust and adaptive learning tools that benefit---as children do---from experiences and interactions in the world.
+
+
+### Current Projects
