@@ -26,7 +26,13 @@ I am a Co-Founder of
 and Vasowatch.
 
 Curriculum Vitae: 
-[html version](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/edit?usp=sharing){:target="_blank"}
-, [pdf version -- takes a while to load](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/export?format=pdf){:target="_blank"}
+[(html)](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/edit?usp=sharing){:target="_blank"}
+, [(pdf -- slow to load)](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/export?format=pdf){:target="_blank"}
 
 ## News
+- Steering committee for ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS) 2022
+- Neuralert stroke detector designated a breakthrough device by the US FDA.
+- Vasowatch selected for Penn-Health Tech accelerator. 
+- Robust Concept Learning and Lifelong adaptation against adversarial attacks project funded by ARO MURI
+- Raproto smartwatch platform publicly released
+- Vasowatch recieves Penn Nursing Innovation award
