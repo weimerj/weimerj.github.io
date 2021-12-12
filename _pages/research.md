@@ -3,26 +3,17 @@ layout: page
 permalink: /research/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+There is a growing recognition of the importance of robustness in machine learning stemming from the discovery 
+and prevalence of adversarial examples. Consequently, monitoring and analysis of adversarial examples in machine 
+learning has received much interest recently. While much of the work is focused on small perturbations to input 
+images, even children would not be fooled by these adversarial examples due to the robustness of their concepts.  
+Thus, this proposal aims to re-think robust and adaptive machine learning to unlock the key to generative and 
+flexible learning by understanding how very young children approach the world.  Our goal is to advent truly 
+robust and adaptive learning tools that benefit---as children do---from experiences and interactions in the world.
