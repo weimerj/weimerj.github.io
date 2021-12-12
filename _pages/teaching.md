@@ -17,4 +17,4 @@ permalink: /teaching/
 ## Clubs and Outreach
 - [Penn Health-Tech](https://healthtech.upenn.edu/){:target="_blank"} (Technical Advisor: 2021 - present)
 - [Medical Device Club](https://rtg.cis.upenn.edu/meddevclub/){:target="_blank"} (Faculty Advisor: 2018 - present)
-- [Embedded Capture the Flag](https://mitrecyberacademy.org/competitions/embedded/) (Faculty Advisor: 2018, 2019)
+- [MITRE Embedded Capture the Flag](https://mitrecyberacademy.org/competitions/embedded/){:target="_blank"} (Faculty Advisor: 2018, 2019)
