@@ -31,7 +31,7 @@ challenges for safety and security assurance.
 
 ### What is "thin data"?
 
-A: While empirical data is often a significant source of this background knowledge in LE-CPS, it can also be limited,
+While empirical data is often a significant source of this background knowledge in LE-CPS, it can also be limited,
 sparse, or "thin" due to unmodeled variability, dataset shifts, anomalies, and sensing constraints. Consequently,
 providing safety guarantees and predictable performance in learning-enabled CPS with thin data is challenging. My
 research addresses the challenges of thin data by incorporating additional sources of background knowledge including
