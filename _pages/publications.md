@@ -3,6 +3,9 @@ layout: page
 permalink: /publications/
 ---
 
+[Journals](#journal)
+
+<a name="journal"></a>
 ## Journal Publications
 
 0. Somali Chaterji, Parinaz Naghizadeh, Muhammad Ashraful Alam, Saurabh Bagchi,Mung Chiang, David Corman, 
