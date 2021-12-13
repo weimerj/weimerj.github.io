@@ -225,4 +225,87 @@ permalink: /publications/
 
 ## Workshop Publications and Abstracts
 
+0. Radoslav Ivanov, James Weimer, Oleg Sokolsky, Insup Lee.
+   "[Demo: Verisig – Verifying Safety Properties of Hybrid Systems with Neural Network Controllers](../pdf/2019-Destion.pdf)" 
+   _The First Workshop on Design Automation for CPS and IoT (DESTION)_, 2019.
+   
+0. Fanxin Kong, Oleg Sokolsky, James Weimer, Insup Lee.
+   "[State Consistencies for Cyber-Physical System Recovery](../pdf/2019-CPS-SR.pdf)"
+   _The Second Workshop on Cyber-Physical Systems Security and Resiliency (CPS-SR)_, 2019.
+   
+0. Hung Nguyen, Radoslav Ivanov, Sara B. DeMauro, and James Weimer.
+   "[RePulmo: A Remote Pulmonary Monitoring System](../pdf/2018-RePulmo.pdf)"
+   _8th Medical Cyber-Physical Systems Workshop (MCPS)_, 2018.
+   
+0. Rajeev Alur, Insup Lee, Rahul Mangharam, Mayur Naik, Oleg Sokolsky, James Weimer, Houssam Abbas.
+   "[Towards Scenario-Based Design and Verification of Resilient Cyber-Physical Systems - Extended Abstract](../pdf/2018-CPS-SR.pdf)" 
+   _1st Workshop on Cyber-Physical System Security and Resilience (CPS-SR)_, 2018.
+   
+0. Shivani Agarwal, James Weimer, Jack Eiel, Amy Peleckis, Insup Lee, Michael Rickels.
+   "[Use of a Novel Insulin Pump Algorithm as an Objective Measure of Bolus Adherence in Type 1 Diabetes](http://www.abstractsonline.com/pp8/#!/4297/presentation/44276)." 
+   _American Diabetes Association: 77th Scientific Sessions_, 2017. 
 
+0. Hung  Nguyen,  Bipeen  Acharya,  Radoslav  Ivanov,  Andreas  Haeberlen  and  Linh  Thi  Xuan  Phan, Oleg Sokolsky, Jesse Walker, <b>James Weimer</b>, C. William Hanson, and Insup Lee.
+   "[Cloud-Based Secure Logger for Medical Devices](../pdf/2016-MedSPT-logger.pdf)." 
+   _The First International Workshop on Security, Privacy, and Trustworthiness in Medical Cyber Physical System (MedSPT)_, 2016. 
+   
+0. Sanjian Chen, James Weimer, Michael R. Rickels, Amy Peleckis, and Insup Lee.
+   "[Towards a Model-Based Meal Detector for Type I Diabetics](../pdf/2015-MCPS-diabetes.pdf)."
+   _6th Medical Cyber-Physical Systems Workshop (MedicalCPS)_, 2015. 
+
+0. Alexander Roederer, James Weimer, Joseph Dimartino, Jacob Gutsche, and Insup Lee.
+   "[Towards Non-Invasive Monitoring of Hypovolemia in Intensive Care Patients](../pdf/2015-MCPS-hypovolemia.pdf)."
+   _6th Medical Cyber-Physical Systems Workshop (MedicalCPS)_, 2015. 
+
+0. Miroslav Pajic, Nicola Bezzo, James Weimer, Rajeev Alur, Rahul Mangharam, Nathan Michael, George J. Pappas, Oleg Sokolsky, Paulo Tabuada, Stephanie Weirich, and Insup Lee.
+   "[Towards Synthesis of Platform-Aware Attack-Resilient Control Systems](../pdf/2013-HiCoNS-resilience.pdf)."
+   _2nd ACM International Conference on High Confidence Networked Systems (HiCoNS)_, 2013.
+   
+0. James Weimer, Seyed Alireza Ahmadi, Jose Araujo, Francesca Madia Mele, Dario Papale, Iman Shames, Henrik Sandberg, and Karl Henrik Johansson.
+   "[Active Actuator Fault Detection and Diagnostics in HVAC Systems](../pdf/2012-BuildSys-detection.pdf)."
+   _4th ACM Workshop on Embedded Sensing Systems for Energy-Efficiency in Buildings (BuildSys)_, 2012.
+   
+{: reversed="reversed"}
+
+
+## Technical Reports
+
+0. Luan Nguyen, Guatam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, Rajeev Alur.
+   "[REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency](../pdf/2019-Reaffirm.pdf)."
+   _arXiv_, 2018.
+
+0. Radoslav Ivanov, James Weimer, Rajeev Alur, George Pappas, Insup Lee.
+   "[Verisig: verifying safety properties of hybrid systems with neural network controllers](../pdf/2018-Verisig.pdf)."
+   _arXiv_, 2018.
+   
+0. Nima Roohi, Ramneet Kaur, James Weimer, Oleg Sokolsky, and Insup Lee.
+   "[Self-driving vehicle verification towards a benchmark](../pdf/2018-self-driving.pdf)" 
+   _arXiv_, 2018.
+   
+0. James Weimer.
+"<a class="citation" target="_blank" href="pdf/2010-dissertation.pdf">
+   "[Large-scale Multiple-Source Detection Using Wireless Sensor Networks](pdf/2010-dissertation.pdf)." 
+   _Ph.D Dissertation, Carnegie Mellon University, Pittsburgh, PA, USA_, 2010.
+
+{: reversed="reversed"}
+
+
+## Tutorials and Demos
+
+0. James Weimer, Oleg Sokolsky, and Insup Lee.
+   "[Tutorial Abstract: Parameter-Invariant Monitor Design for Cyber-Physical Systems](../pdf/CPSweek2016-tutorial.pdf)"
+   _Cyber Physical Systems Week (CPSweek)_, 2016.
+
+0. James Weimer, Oleg Sokolsky, and Insup Lee.
+   "[Tutorial Abstract: Robust Medical Monitor Design]("http://cs.utdallas.edu/ichi2015/partecipants/program/#tutorials)."
+   _International Conference on Health Care Informatics (ICHI)_, 2015. 
+
+0. James Weimer, Oleg Sokolsky, and Insup Lee.
+   "[Tutorial Abstract: Parameter-Invariant Monitor Design for Cyber-Physical Systems](http://esweek.acm.org/tutorial5.shtml)"
+   _Embedded Systems Week (ESweek)_, 2015. 
+   
+0. Miroslav Pajic, Nicola Bezzo, James Weimer, Oleg Sokolsky, George J. Pappas, Paulo Tabuada, and Insup Lee.
+   "[Demo Abstract: Synthesis of Platform-Aware Attack-Resilient Vehicular Systems](../pdf/2013-CPSweek-demo.pdf)" 
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2013.
+
+{: reversed="reversed"}
