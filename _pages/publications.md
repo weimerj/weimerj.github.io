@@ -3,8 +3,13 @@ layout: page
 permalink: /publications/
 ---
 
-[Journals](#journal-publications)
-
+## Quick Links
+- [Journal Publications](#journal-publications){: target="_self"}
+- [Book Chapters](#book-chapters){: target="_self"}
+- [Conference Publications](#conference-publications){: target="_self"}
+- [Workshop Publications and Abstracts](#workshop-publications-and-abstracts){: target="_self"}
+- [Technical Reports](#technical-reports){: target="_self"}
+- [Tutorials and Demos](#tutorials-and-demos){: target="_self"}
 
 ## Journal Publications
 
