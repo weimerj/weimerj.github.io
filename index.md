@@ -30,10 +30,10 @@ Curriculum Vitae:
 , [(pdf -- slow to load)](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/export?format=pdf)
 
 ## News
-- [Reducing Social Isolation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2125561&HistoricalAwards=false) project funded by NSf Smart and Connected Communities 
+- [Reducing Social Isolation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2125561&HistoricalAwards=false) project funded by NSf SCC 
 - Steering committee for [ICCPS 2022](https://iccps.acm.org/2022/)
-- [Neuralert](https://www.neuralerttechnologies.com/news#h.qm1f4v92tzh5) stroke detector designated a breakthrough device by the US FDA.
-- Vasowatch selected for [Penn-Health Tech Accelerator](https://healthtech.upenn.edu/project/vasowatch). 
+- [Neuralert](https://www.neuralerttechnologies.com/news#h.qm1f4v92tzh5) stroke detector designated a breakthrough device by the US FDA
+- Vasowatch selected for [Penn-Health Tech Accelerator](https://healthtech.upenn.edu/project/vasowatch) 
 - [Child-Like Adversarial Learning](https://aro-muri2020.seas.upenn.edu/index.html) project funded by ARO MURI
 - [Raproto](https://github.com/weimerj/Raproto-Tizen) smartwatch platform publicly released
 - Vasowatch receives [Penn Nursing Innovation Award 2021](https://www.nursing.upenn.edu/details/news.php?id=1932)
