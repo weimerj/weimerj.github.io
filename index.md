@@ -19,7 +19,7 @@ My research develops foundations and tools for safety guarantees and predictable
 learning-enabled cyber-physical systems (CPS) - primarily targeting the **internet-of-medical-things** (IoMT) and
 **autonomous vehicles** (AVs). Specifically, my research aims to develop tools and techniques to address 
 challenges arising from _"thin data"_, which can be caused by unmodeled variability, dataset shifts, 
-anomalies, and sensing constraints. Find out more [here](/research). 
+anomalies, and sensing constraints. Find out more [here](/research){: target="_self"}. 
 
 I am a Co-Founder of 
 [Neuralert Technologies](https://neuralerttechnologies.com/)
