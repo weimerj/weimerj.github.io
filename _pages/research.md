@@ -43,3 +43,10 @@ time-varying, uncertain, unstructured, and adversarial environments.
 
 
 ### Current Projects
+- [SCC-IRG JST: Active sensing and personalized interventions for pandemic-induced social isolation (NSF SCC)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2125561&HistoricalAwards=false)
+- [Robust Concept Learning and Lifelong adaptation against adversarial attacks (ARO MURI)](https://aro-muri2020.seas.upenn.edu/index.html)
+- [AutoWean: Foundations of Autonomous Medical CPS for Mechanical Ventilation Weaning (NIH RO1)](https://projectreporter.nih.gov/project_info_description.cfm?aid=9985370&icde=47046182&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)
+- [Monitoring safety and adherence of pain management through remote opioid sensing and analysis (NIH R01)](https://projectreporter.nih.gov/project_info_description.cfm?aid=9936691&icde=47034448)
+- [Smart Alarms 2.0: Foundations for Caregiver-in-the-loop Suppression of Non-Informative Alarms (NSF SCH)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915398&HistoricalAwards=false)
+- [Pediatric Patient Safety Learning Laboratory to Re-Engineer Continuous Physiologic Monitoring Systems (NIH R18)](https://projectreporter.nih.gov/project_info_description.cfm?aid=9778806&icde=47047062)
+- [Integrated Static and Dynamic Approaches to High-Assurance for Learning-Enabled Cyber-Physical Systems (DARPA Assured Autonomy)](https://rtg.cis.upenn.edu/assured-autonomy/)
