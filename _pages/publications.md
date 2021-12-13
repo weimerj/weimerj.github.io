@@ -4,20 +4,40 @@ permalink: /publications/
 ---
 
 ## Quick Links
+
 - [Journal Publications](#journal-publications){: target="_self"}
 - [Book Chapters](#book-chapters){: target="_self"}
-- [Conference Publications](#conference-publications){: target="_self"}
+- [Conference Publications](#conference-publications){: target="_self"}  
+- [Patents](#patents){: target="_self"}
 - [Workshop Publications and Abstracts](#workshop-publications-and-abstracts){: target="_self"}
-- [Technical Reports](#technical-reports){: target="_self"}
+- [Technical Reports](#technical-reports-and-patents){: target="_self"}
 - [Tutorials and Demos](#tutorials-and-demos){: target="_self"}
 
 ## Journal Publications
 
-0. Somali Chaterji, Parinaz Naghizadeh, Muhammad Ashraful Alam, Saurabh Bagchi,Mung Chiang, David Corman, 
-   Brian Henz, Suman Jana, Na Li, Shaoshuai Mou, MeekoOishi, Chunyi Peng, Tiark Rompf, Ashutosh Sabharwal,
-   Shreyas Sundaram, James Weimer, Jennifer Weller. 
-   "[Resilient Cyberphysical Systems and Their Application Drivers: A Technology Roadmap](https://arxiv.org/abs/2001.00090)."
-   _Arxiv_, 2019. 
+0. Radoslav Ivanov, Taylor J. Carpenter, James Weimer, Rajeev Alur, George J. Pappas, and Insup Lee.
+   "[Verifying the Safety of Autonomous Systems with Neural Network Controllers](../pdf/2021-verisig-journal.pdf)." 
+   _ACM Transactions on Embedded Computing Systems (TECS)_, 2020.
+   
+0. Susan Kohl Malone, Amy J. Peleckis, Laura Grunin, Gary Yu, Sooyong Jang, James Weimer, Insup Lee, Michael R. Rickels, and Namni Goel.
+   "[Characterizing Glycemic Control and Sleep in Adults with Long-Standing Type 1 Diabetes and Hypoglycemia Unawareness Initiating Hybrid Closed Loop Insulin Delivery.](../pdf/2021-diabetes.pdf)."
+   _Journal of Diabetes Research_, 2021.
+   
+0. Insup Lee, Oleg Sokolsky, James Weimer.
+   “[Medical Cyber-Physical Systems: Challenges and Future Directions](../pdf/2021-encyclopedia.pdf).”
+   _Encyclopedia of Systems and Controls_, 2020.
+   
+0. Emily K. Presseller, Megan N. Parker, Mandy Lin, James Weimer, and Adrienne S. Juarascio.
+   "[The application of continuous glucose monitoring technology to eating disorders research: An idea worth researching]()."
+   _International Journal of Eating Disorders_, 2020.
+   
+0. Esen Yel, Taylor Carpenter, Carmelo Di Franco, Radoslav Ivanov, Yiannis Kantaros, Insup Lee, James Weimer, Nicola Bezzo.
+   “[Assured Run-time Monitoring and Planning: Towards Verification of Neural Networks for Safe Autonomous Operations]().”
+   _IEEE Robotics & Automation Magazine_, 2020.
+   
+0. Ivan Ruchkin, Oleg Sokolsky, James Weimer, Tushar Hedaoo, Insup Lee.
+   “[Compositional Probabilistic Analysis of Temporal Properties Over Stochastic Detectors](../pdf/2020-coco.pdf).”
+   _IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems_, 2020.
    
 0. Radoslav Ivanov, Nikolay Atanasov, Miroslav Pajic, James Weimer, George J. Pappas, and Insup Lee. 
    "[Continuous Estimation Using Context-Dependent Discrete Measurements](../pdf/2019-TAC-context.pdf)."
@@ -85,6 +105,29 @@ permalink: /publications/
 
 ## Conference Publications
 
+0. Radoslav Ivanov, Taylor Carpenter, James Weimer, Rajeev Alur, George Pappas, and Insup Lee.
+   "[Verisig 2.0: Verification of neural network controllers using taylor model preconditioning](../pdf/2021-verisig2.0.pdf)."
+   _International Conference on Computer Aided Verification_, 2021.
+
+0. Yinjun Wu, James Weimer, and Susan B. Davidson.
+   "[CHEF: a cheap and fast pipeline for iteratively cleaning label uncertainties](../pdf/2021-chef.pdf)."
+   _Proceedings of the VLDB Endowment_, 2021.
+   
+0. Yiannis Kantaros, Taylor Carpenter, Kaustubh Sridhar, Yahan Yang, Insup Lee and James Weimer.
+   “[Real-Time Detectors for Digital and Physical Adversarial Inputs to Perception Systems](../pdf/2021-visionguard.pdf).”
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2021.
+
+0. Sooyong Jang, Insup Lee, and James Weimer. 
+   "[Improving Classifier Confidence using Lossy Label-Invariant Transformations](../pdf/2021-recal.pdf)."
+   _In International Conference on Artificial Intelligence and Statistics (AISTATS)_, 2021.
+
+0. Taylor Carpenter, Radoslav Ivanov, Insup Lee, James Weimer. 
+   "[ModelGuard: Runtime Validation of Lipschitz-continuous Models](../pdf/2021-ModelGuard.pdf)."
+   _Analysis and Design of Hybrid Systems (ADHS)_, 2021.
+
+0. Sangdon Park, Osbert Bastani, James Weimer, Insup Lee.
+   “[Calibrated Predictions with Covariate Shift via Unsupervised Domain Adaptation](../pdf/2020-calibraiton.pdf).”
+   _International Conference on Artificial Intelligence and Statistics (AISTATS)_, 2020.
 
 0. Radoslav Ivanov, Taylor Carpenter, James Weimer, Rajeev Alur, George Pappas, and Insup Lee.
    "[Case Study: Verifying the Safety of an Autonomous Racing Car with a Neural Network Controller](https://arxiv.org/abs/1910.11309)."
@@ -231,7 +274,19 @@ permalink: /publications/
 {: reversed="reversed"}
    
 
+## Patents
+
+0. Sanjian Chen, James Erich Weimer, and Insup Lee.
+   "[Methods, systems, and computer readable media for physiology parameter-invariant meal detection](../pdf/US10792423.pdf)." 
+   U.S. Patent 10,792,423, issued October 6, 2020.
+
+{: reversed="reversed"}
+
 ## Workshop Publications and Abstracts
+
+0. Taylor T. Johnson, Diego Manzanas Lopez, Luis Benet, Marcelo Forets, Sebastián Guadalupe, Christian Schilling, Radoslav Ivanov, Taylor J. Carpenter, James Weimer, and Insup Lee.
+   "[ARCH-COMP21 Category Report: Artificial Intelligence and Neural Network Control Systems (AINNCS) for Continuous and Hybrid Systems Plants](../pdf/2021-ARCH-COMP.pdf)."
+   _EPiC Series in Computing 80_, 2021.
 
 0. Radoslav Ivanov, James Weimer, Oleg Sokolsky, Insup Lee.
    "[Demo: Verisig – Verifying Safety Properties of Hybrid Systems with Neural Network Controllers](../pdf/2019-Destion.pdf)" 
@@ -277,6 +332,12 @@ permalink: /publications/
 
 
 ## Technical Reports
+
+0. Somali Chaterji, Parinaz Naghizadeh, Muhammad Ashraful Alam, Saurabh Bagchi,Mung Chiang, David Corman, 
+   Brian Henz, Suman Jana, Na Li, Shaoshuai Mou, MeekoOishi, Chunyi Peng, Tiark Rompf, Ashutosh Sabharwal,
+   Shreyas Sundaram, James Weimer, Jennifer Weller. 
+   "[Resilient Cyberphysical Systems and Their Application Drivers: A Technology Roadmap](https://arxiv.org/abs/2001.00090)."
+   _Arxiv_, 2019. 
 
 0. Luan Nguyen, Guatam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, Rajeev Alur.
    "[REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency](../pdf/2019-Reaffirm.pdf)."
