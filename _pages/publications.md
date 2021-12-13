@@ -77,6 +77,114 @@ permalink: /publications/
 
 ## Conference Publications
 
+
+0. Radoslav Ivanov, Taylor Carpenter, James Weimer, Rajeev Alur, George Pappas, and Insup Lee.
+   "[Case Study: Verifying the Safety of an Autonomous Racing Car with a Neural Network Controller](https://arxiv.org/abs/1910.11309)."
+   _Hybrid Systems Computation and Control (HSCC)_, 2020.
+   
+0. Luan Nguyen, Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee and Rajeev Alur.
+   "[Detecting Security Leaks in Hybrid Systems with Information Flow Analysis](../pdf/2019-memocode.pdf)."
+   _17th ACM-IEEE International Conference on Formal Methods and Models for System Design (MEMOCODE)_, 2019.
+
+0. Radoslav Ivanov, James Weimer, Rajeev Alur, George Pappas and Insup Lee.
+   "[Verisig: verifying safety properties of hybrid systems with neural network controllers](../pdf/2019-Verisig.pdf)."
+   _Hybrid Systems: Computation and Control (HSCC)_, 2019.
+   
+0. Kuk Jang, Yash Pant, B Zhang, James Weimer, Rahul Mangharam.
+   "[Robustness Evaluation of Computer-aided Clinical Trials for Medical Devices](../pdf/2019-ICCPS.pdf)."
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2019.
+
+0. Radoslav Ivanov, Hung Nguyen, James Weimer, Oleg Sokolsky, and Insup Lee.
+   "[OpenICE-lite: Towards a Connectivity Platform for the Internet of Medical Things](../pdf/2018-ISORC-OpenICE-lite.pdf)" 
+   _21st IEEE International Symposium on Real-Time Computing (ISORC)_, 2018.
+
+0. Hung Nguyen, Sooyong Jang, Radoslav Ivanov, Christopher P. Bonafide, James Weimer, and Insup Lee.
+   "[Reducing Pulse Oximetry False Alarms Without Missing Life-Critical Events](../pdf/2018-CHASE.pdf)."
+   _IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE)_, 2018. 
+
+0. Hung Nguyen, Radoslav Ivanov, Linh T.X. Phan, Oleg Sokolsky, James Weimer, and Insup Lee.
+   "[LogSafe: Secure and Scalable Data Logger for IoT Devices](../pdf/2018-IoTDI-LogSafe.pdf)."
+   _ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI)_, 2018.
+   
+0. Nima Roohi, Ramneet Kaur, James Weimer, Oleg Sokolsky, and Insup Lee.
+   "[Parameter Invariant Monitoring for Signal Temporal Logic](../pdf/2018-HSCC-PAINSTL.pdf)" 
+   _Hybrid Systems Computation and Control (HSCC)_, 2018.
+
+0. Fanxin Kong, Meng Xu, James Weimer, Oleg Sokolsky, and Insup Lee.
+   "[Cyber-Physical System Checkpointing and Recovery](../pdf/2018-ICCPS-CPScheckpointing.pdf)"
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2018. 
+   
+0. Radoslav Ivanov, James Weimer, and Insup Lee.
+   "[Context-Aware Detection in Medical Cyber-Physical Systems](../pdf/2018-ICCPS-ContextAwareDetection.pdf)"
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2018.	
+
+0. Kuk Jin Jang, <b>James Weimer</b>, Houssam Abbas, Zhihao Jiang, Jackson Liang, Sanjay Dixit, and Rahul Mangharam.
+   "[Computer Aided Clinical Trials for Implantable Cardiac Devices](../pdf/2018-EMBC-CACT.pdf)."
+   _International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, 2018.
+
+0. Alberto Huertas Celdran, Felix J. Garcia Clemente, James Weimer, and Insup Lee.
+   "[ICE++: Improving Security, QoS, and High Availability of Medical Cyber-Physical Systems through Mobile Edge Computing](../pdf/2018-Healthcom.pdf)."
+   _IEEE International Conference on E-health Networking, Application & Services (HealthCom)_, 2018.
+
+0. Sangdon Park, James Weimer, and Insup Lee.
+   "[Resilient Linear Classification: An Approach to Deal with Attacks on Training Data](../pdf/2017-ICCPS-ResilientMachineLearning.pdf)."
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2017. 
+   
+0. Minsu Jo, Junkil Park, Yungmi Baek, Radoslav Ivanov, James Weimer, Sanghyuk Son, and Insup Lee.
+   "[Adaptive Transient Fault Model for Sensor Attack Detection](../pdf/2016-CPSNA-SensorFusion.pdf)." 
+   _Cyber-Physical Systems, Networks, and Applications (CPSNA)_, 2016. 
+   **(Best Paper Award)**
+
+0. Nicola Bezzo, James Weimer, Yanwei Du, Oleg Sokolsky, Sang H. Son, and Insup Lee.
+   "[A Stochastic Approach for Attack Resilient UAV Motion Planning](../pdf/2016-ACC-robots.pdf)." 
+   _American Control Conference (ACC)_, 2016.
+   
+0. Radoslav Ivanov, Nikolay Atanasov, James Weimer, Miroslav Pajic, Allan Simpao, Mohamed Rehman, George J. Pappas, and Insup Lee.
+   "[Estimation of Blood Oxygen Content Using Context-Aware Filtering](../pdf/2016-ICCPS-estimation.pdf)."
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2016.
+
+0. Sanjian Chen, Matthew O'Kelly, James Weimer, Oleg Sokolsky, and Insup Lee.
+   "[An Intraoperative Glucose Control Benchmark for Formal Verification](../pdf/2015-ADHS-diabetes.pdf)"
+   _5th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS)_, 2015. 
+
+0. Alexander Roederer, James Weimer, Joseph Dimartino, Jacob Gutsche, and Insup Lee.
+   "[Robust Monitoring of Hypovolemia in Intensive Care Patients Using Photoplethysmogram Signals](../pdf/2015-EMBC-hypovolemia.pdf)"
+   _37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society_, 2015.
+
+0. Radoslav Ivanov, James Weimer, Allan Simpao, Mohamed Rehman, and Insup Lee.
+   "[Early Detection of Critical Pulmonary Shunts in Infants](../pdf/2015-ICCPS-hypoxia.pdf)."
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2015. 
+   **(Best Paper Award Finalist)**
+
+0. Junkil Park, Radoslav Ivanov, James Weimer, Miroslav Pajic, and Insup Lee.
+   "[Sensor Attack Detection in the Presence of Transient Faults](../pdf/2015-ICCPS-SensorFusion.pdf)" 
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2015.
+   
+0. Nicola Bezzo, James Weimer, Miroslav Pajic, Oleg Sokolsky, George J. Pappas, and Insup Lee.
+   "[Attack Resilient State Estimation for Autonomous Robotic Systems](../pdf/2014-IROS-RSE.pdf)."
+   Intelligent Robots and Systems (IROS), 2014.
+
+0. James Weimer, Oleg Sokolsky, Nicola Bezzo, and Insup Lee.
+   "[Towards Assurance Cases for Resilient Control Systems](../pdf/2014-CPSNA-assurance.pdf)."
+   _Cyber-Physical Systems, Networks, and Applications (CPSNA)_, 2014.
+
+0. James Weimer, Nicola Bezzo, Miroslav Pajic, Oleg Sokolsky, and Insup lee.
+   "[Attack-Resilient Minimum Mean-Squared Error Estimation](../pdf/2014-ACC-resilientMSE.pdf)."
+   _American Control Conference (ACC)_, 2014.
+
+0. Miroslav Pajic, James Weimer, Nicola Bezzo, Paulo Tabuada, Oleg Sokolsky, Insup Lee, and George J. Pappas.
+   "[Robustness of Attack-Resilient State Estimators](../pdf/2014-ICCPS-robustRSE.pdf)."
+   _International Conference of Cyber Physical Systems (ICCPS)_, 2014 
+   **(Best Paper Award)**
+
+0. James Weimer, Damiano Varagnolo, and Karl Henrik Johansson.
+   "[Distributed Model-Invariant Detection of Unknown Inputs in Networked Systems](../pdf/2013-HiCoNS-ModelInvariant.pdf)."
+   _2nd ACM International Conference on High Confidence Networked Systems (HiCoNS)_, 2013
+
+0. James Weimer, Damiano Varagnolo, Miroslav Stankovic, and Karl Henrik Johansson.
+   "[Parameter-Invariant Detection of Unknown Inputs in Networked Systems](../pdf/2013-CDC-PAIN.pdf)."
+   _52nd Annual Conference on Decision and Control (CDC)_, 2013
+
 0. James Weimer, Yuzhe Xu, Carlos Fischione, Karl Henrik Johansson, Per Ljungberg, Craig Donovan, Ariana Sutor, and Lennart Fahlen.
    "[Virtual Laboratory for Micro-Grid Information and Communication Infrastructures](../pdf/2012-ISGT-MicroGrid.pdf)."
    _3rd IEEE PES Innovative Smart Grid Technologies in Europe Conference (ISGT-Europe)_, 2012.
