@@ -30,7 +30,8 @@ Curriculum Vitae:
 , [(pdf -- slow to load)](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/export?format=pdf)
 
 ## News
-- [Reducing Social Isolation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2125561&HistoricalAwards=false) project funded by NSf SCC 
+- [StrokeDetectAI](https://jamesweimer.net/StrokeDetectAI/) licensed to [Neuralert](https://www.neuralerttechnologies.com)
+- [Reducing Social Isolation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2125561&HistoricalAwards=false) project funded by NSF SCC 
 - Steering committee for [ICCPS 2022](https://iccps.acm.org/2022/)
 - [Neuralert](https://www.neuralerttechnologies.com/news#h.qm1f4v92tzh5) stroke detector designated a breakthrough device by the US FDA
 - Vasowatch selected for [Penn-Health Tech Accelerator](https://healthtech.upenn.edu/project/vasowatch) 
