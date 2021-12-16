@@ -105,6 +105,18 @@ permalink: /publications/
 
 ## Conference Publications
 
+0. Amanda Watson, Pengyuan Lu, Elliot Greenberg, J. Todd R. Lawrence, Theodore J. Ganley, Insup Lee, and James Weimer. 
+   "[RT-ACL: Identification of High-Risk Youth Patients and their Most Significant Risk Factors to Reduce Anterior Cruciate Ligament Reinjury Risk](../pdf/2021-RT-ACL.pdf)."
+   _IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE)_, 2021. 
+
+0. Sydney Pugh, Ivan Ruchkin, Christopher Bonafide, Sara DeMauro, Oleg Sokolsky, Insup Lee, and James Weimer.
+   "[High-Confidence Data Programming for Evaluating Suppression of Physiological Alarms](../pdf/2021-CHASE-data-programming.pdf)."
+   _IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE)_, 2021. 
+
+0. Hyonyoung Choi, Amanda Lor, Mike Megonegal, Xiayan Ji, Amanda Watson, James Weimer, and Insup Lee. 
+   "[VitalCore: Analytics and Support Dashboard for Medical Device Integration](../pdf/2021-CHASE-VitalCore.pdf)."
+   _IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE)_, 2021. 
+   
 0. Radoslav Ivanov, Taylor Carpenter, James Weimer, Rajeev Alur, George Pappas, and Insup Lee.
    "[Verisig 2.0: Verification of neural network controllers using taylor model preconditioning](../pdf/2021-verisig2.0.pdf)."
    _International Conference on Computer Aided Verification_, 2021.
@@ -283,6 +295,10 @@ permalink: /publications/
 {: reversed="reversed"}
 
 ## Workshop Publications and Abstracts
+
+0. Pengyuan Lu, Xian Li, Sooyong Jang, Alexander Lee, Sydney Pugh, Amanda Watson, Ragnhildur I. Bjarnadottir, Robert Lucero, George Demiris, Ani Nenkova, James Weimer, and Insup Lee.
+   "[FRED: Fall Risk Evaluation Database Based on Electronic Health Record Data](../pdf/2021-CHASE-FRED.pdf)."
+   _IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE)_, 2021.
 
 0. Taylor T. Johnson, Diego Manzanas Lopez, Luis Benet, Marcelo Forets, Sebastián Guadalupe, Christian Schilling, Radoslav Ivanov, Taylor J. Carpenter, James Weimer, and Insup Lee.
    "[ARCH-COMP21 Category Report: Artificial Intelligence and Neural Network Control Systems (AINNCS) for Continuous and Hybrid Systems Plants](../pdf/2021-ARCH-COMP.pdf)."
