@@ -299,10 +299,14 @@ permalink: /publications/
 0. Pengyuan Lu, Xian Li, Sooyong Jang, Alexander Lee, Sydney Pugh, Amanda Watson, Ragnhildur I. Bjarnadottir, Robert Lucero, George Demiris, Ani Nenkova, James Weimer, and Insup Lee.
    "[FRED: Fall Risk Evaluation Database Based on Electronic Health Record Data](../pdf/2021-CHASE-FRED.pdf)."
    _IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE)_, 2021.
-
+   
 0. Taylor T. Johnson, Diego Manzanas Lopez, Luis Benet, Marcelo Forets, Sebastián Guadalupe, Christian Schilling, Radoslav Ivanov, Taylor J. Carpenter, James Weimer, and Insup Lee.
    "[ARCH-COMP21 Category Report: Artificial Intelligence and Neural Network Control Systems (AINNCS) for Continuous and Hybrid Systems Plants](../pdf/2021-ARCH-COMP.pdf)."
    _EPiC Series in Computing 80_, 2021.
+
+0. Amanda Watson, Hyonyoung Choi, Insup Lee, James Weimer.
+   "[Raproto: An Open Source Platform for Rapid Prototyping of Wearable Medical Devices](../pdf/2021-Raproto-MCPS.pdf)."
+   _Medical Cyber Physical Systems and Internet of Medical Things Workshop (MCPS)_, CPS Week 2021.
 
 0. Radoslav Ivanov, James Weimer, Oleg Sokolsky, Insup Lee.
    "[Demo: Verisig – Verifying Safety Properties of Hybrid Systems with Neural Network Controllers](../pdf/2019-Destion.pdf)" 
