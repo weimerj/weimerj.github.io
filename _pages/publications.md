@@ -107,7 +107,7 @@ permalink: /publications/
 
 0. Amanda Watson, Pengyuan Lu, Elliot Greenberg, J. Todd R. Lawrence, Theodore J. Ganley, Insup Lee, and James Weimer. 
    "[RT-ACL: Identification of High-Risk Youth Patients and their Most Significant Risk Factors to Reduce Anterior Cruciate Ligament Reinjury Risk](../pdf/2021-RT-ACL.pdf)."
-   _IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE)_, 2021. 
+   _IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE)_, 2021. **(Best Paper Award Finalist)**
 
 0. Sydney Pugh, Ivan Ruchkin, Christopher Bonafide, Sara DeMauro, Oleg Sokolsky, Insup Lee, and James Weimer.
    "[High-Confidence Data Programming for Evaluating Suppression of Physiological Alarms](../pdf/2021-CHASE-data-programming.pdf)."
