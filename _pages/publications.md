@@ -181,7 +181,7 @@ permalink: /publications/
    "[Context-Aware Detection in Medical Cyber-Physical Systems](../pdf/2018-ICCPS-ContextAwareDetection.pdf)"
    _International Conference of Cyber Physical Systems (ICCPS)_, 2018.	
 
-0. Kuk Jin Jang, <b>James Weimer</b>, Houssam Abbas, Zhihao Jiang, Jackson Liang, Sanjay Dixit, and Rahul Mangharam.
+0. Kuk Jin Jang, James Weimer, Houssam Abbas, Zhihao Jiang, Jackson Liang, Sanjay Dixit, and Rahul Mangharam.
    "[Computer Aided Clinical Trials for Implantable Cardiac Devices](../pdf/2018-EMBC-CACT.pdf)."
    _International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)_, 2018.
 
