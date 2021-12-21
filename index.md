@@ -26,8 +26,8 @@ I am a Co-Founder of
 and Vasowatch.
 
 Curriculum Vitae: 
-[(html)](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/edit?usp=sharing)
-, [(pdf -- slow to load)](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/export?format=pdf)
+[\[html\]](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/edit?usp=sharing)
+, [\[pdf -- slow to load\]](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/export?format=pdf)
 
 ## News
 - [RT-ACL](pdf/2021-RT-ACL.pdf) selected as a Best Paper Award Finalist at [IEEE/ACM CHASE](https://conferences.computer.org/chase2021/)
