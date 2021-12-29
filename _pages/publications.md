@@ -28,11 +28,11 @@ permalink: /publications/
    _Encyclopedia of Systems and Controls_, 2020.
    
 0. Emily K. Presseller, Megan N. Parker, Mandy Lin, James Weimer, and Adrienne S. Juarascio.
-   "[The application of continuous glucose monitoring technology to eating disorders research: An idea worth researching]()."
+   "[The application of continuous glucose monitoring technology to eating disorders research: An idea worth researching](../pdf/2020-bulimia.pdf)."
    _International Journal of Eating Disorders_, 2020.
    
 0. Esen Yel, Taylor Carpenter, Carmelo Di Franco, Radoslav Ivanov, Yiannis Kantaros, Insup Lee, James Weimer, Nicola Bezzo.
-   “[Assured Run-time Monitoring and Planning: Towards Verification of Neural Networks for Safe Autonomous Operations]().”
+   “[Assured Run-time Monitoring and Planning: Towards Verification of Neural Networks for Safe Autonomous Operations](../pdf/2020-verified-planning.pdf).”
    _IEEE Robotics & Automation Magazine_, 2020.
    
 0. Ivan Ruchkin, Oleg Sokolsky, James Weimer, Tushar Hedaoo, Insup Lee.
@@ -291,7 +291,6 @@ permalink: /publications/
 0. Sanjian Chen, James Erich Weimer, and Insup Lee.
    "[Methods, systems, and computer readable media for physiology parameter-invariant meal detection](../pdf/US10792423.pdf)." 
    U.S. Patent 10,792,423, issued October 6, 2020.
-
 {: reversed="reversed"}
 
 ## Workshop Publications and Abstracts
@@ -347,7 +346,6 @@ permalink: /publications/
 0. James Weimer, Seyed Alireza Ahmadi, Jose Araujo, Francesca Madia Mele, Dario Papale, Iman Shames, Henrik Sandberg, and Karl Henrik Johansson.
    "[Active Actuator Fault Detection and Diagnostics in HVAC Systems](../pdf/2012-BuildSys-detection.pdf)."
    _4th ACM Workshop on Embedded Sensing Systems for Energy-Efficiency in Buildings (BuildSys)_, 2012.
-   
 {: reversed="reversed"}
 
 
@@ -375,7 +373,6 @@ permalink: /publications/
 "<a class="citation" target="_blank" href="pdf/2010-dissertation.pdf">
    "[Large-scale Multiple-Source Detection Using Wireless Sensor Networks](pdf/2010-dissertation.pdf)." 
    _Ph.D Dissertation, Carnegie Mellon University, Pittsburgh, PA, USA_, 2010.
-
 {: reversed="reversed"}
 
 
@@ -396,5 +393,4 @@ permalink: /publications/
 0. Miroslav Pajic, Nicola Bezzo, James Weimer, Oleg Sokolsky, George J. Pappas, Paulo Tabuada, and Insup Lee.
    "[Demo Abstract: Synthesis of Platform-Aware Attack-Resilient Vehicular Systems](../pdf/2013-CPSweek-demo.pdf)" 
    _International Conference of Cyber Physical Systems (ICCPS)_, 2013.
-
 {: reversed="reversed"}
