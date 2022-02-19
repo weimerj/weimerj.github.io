@@ -14,6 +14,8 @@ at the University of Pennsylvania and in the
 at the Children's Hospital of Philadelphia. 
 I am a member of the [PRECISE Center](https://precise.seas.upenn.edu/), 
 the Technical Advisor for the [Center for Devices, Health, and Technology](https://healthtech.upenn.edu/),
+on the Executive Committee for the [Community Collaboratory for Co-Creation (Penn4c)](https://www.penn4c.org/),
+the SEAS Faculty Advisor for [Penn Bootcamp](https://bootcamp.sas.upenn.edu/), 
 and the Director of the [Medical Device Club](https://rtg.cis.upenn.edu/meddevclub/).
 
 My research develops foundations and tools for safety guarantees and predictable performance of 
