@@ -26,7 +26,7 @@ anomalies, and sensing constraints. Find out more [here](/research){: target="_s
 
 I am a Co-Founder of 
 [Neuralert Technologies](https://neuralerttechnologies.com/)
-and Vasowatch.
+and [Vasowatch](https://vasowatch.com/).
 
 Curriculum Vitae: 
 [\[html\]](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/edit?usp=sharing)
