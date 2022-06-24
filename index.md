@@ -25,7 +25,7 @@ challenges arising from _"thin data"_, which can be caused by unmodeled variabil
 anomalies, and sensing constraints. Find out more [here](/research){: target="_self"}. 
 
 I am a Co-Founder of 
-[Neuralert Technologies](https://neuralerttechnologies.com/)
+[Neuralert Technologies](https://www.neuralerttechnologies.com/)
 and [Vasowatch](https://vasowatch.com/).
 
 Curriculum Vitae: 
