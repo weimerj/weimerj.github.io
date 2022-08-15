@@ -7,16 +7,13 @@ permalink: /
 
 
 
-I am a Research Assistant Professor in the 
-[Department of Computer and Information Science](https://www.cis.upenn.edu/)
-at the University of Pennsylvania and in the 
-[Department of Biomedical and Health Informatics](https://www.chop.edu/centers-programs/department-biomedical-and-health-informatics-dbhi)
-at the Children's Hospital of Philadelphia. 
-I am a member of the [PRECISE Center](https://precise.seas.upenn.edu/), 
-the Technical Advisor for the [Center for Devices, Health, and Technology](https://healthtech.upenn.edu/),
-on the Executive Committee for the [Community Collaboratory for Co-Creation (Penn4c)](https://www.penn4c.org/),
-the SEAS Faculty Advisor for [Penn Bootcamp](https://bootcamp.sas.upenn.edu/), 
-and the Director of the [Medical Device Club](https://rtg.cis.upenn.edu/meddevclub/).
+I am an Assistant Professor in the 
+[Department of Computer Science](https://engineering.vanderbilt.edu/cs/)
+at Vanderbilt University. 
+I am a member of the [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/), 
+and the [Vanderbilt Institute for Surgery and Engineering](https://www.vanderbilt.edu/vise/).
+
+[//]: # (Technical Advisor for the [Center for Devices, Health, and Technology](https://healthtech.upenn.edu/),  on the Executive Committee for the [Community Collaboratory for Co-Creation (Penn4c)](https://www.penn4c.org/),  the SEAS Faculty Advisor for [Penn Bootcamp](https://bootcamp.sas.upenn.edu/), and the Director of the [Medical Device Club](https://rtg.cis.upenn.edu/meddevclub/).)
 
 My research develops foundations and tools for safety guarantees and predictable performance of 
 learning-enabled cyber-physical systems (CPS) - primarily targeting the **internet-of-medical-things** (IoMT) and
