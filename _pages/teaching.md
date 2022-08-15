@@ -11,11 +11,11 @@ permalink: /teaching/
 
 
 ## Bootcamps
-- [Data Science Bootcamp](https://bootcamp.sas.upenn.edu/data/) (Faculty Advisor: 2020 - present)
-- [Cyber-Security Bootcamp](https://bootcamp.sas.upenn.edu/cybersecurity/) (Faculty Advisor: 2019-present)
+- [Data Science Bootcamp](https://bootcamp.sas.upenn.edu/data/) (Faculty Advisor: 2020 - 2022)
+- [Cyber-Security Bootcamp](https://bootcamp.sas.upenn.edu/cybersecurity/) (Faculty Advisor: 2019 - 2022)
 
 
 ## Clubs and Outreach
-- [Penn Health-Tech](https://healthtech.upenn.edu/) (Technical Advisor: 2021 - present)
 - [Medical Device Club](https://rtg.cis.upenn.edu/meddevclub/) (Faculty Advisor: 2018 - present)
+- [Penn Health-Tech](https://healthtech.upenn.edu/) (Technical Advisor: 2021 - 2022)
 - [MITRE Embedded Capture the Flag](https://mitrecyberacademy.org/competitions/embedded/) (Faculty Advisor: 2018, 2019)
