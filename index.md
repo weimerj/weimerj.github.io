@@ -11,7 +11,8 @@ I am an Assistant Professor in the
 [Department of Computer Science](https://engineering.vanderbilt.edu/cs/)
 at Vanderbilt University. 
 I am a member of the [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/), 
-and the [Vanderbilt Institute for Surgery and Engineering](https://www.vanderbilt.edu/vise/).
+and the [Vanderbilt Institute for Surgery and Engineering](https://www.vanderbilt.edu/vise/). 
+I am the Director of the [Internet of Medical Things (IoMT) Lab]() and the [Medical Device Club]().
 
 [//]: # (Technical Advisor for the [Center for Devices, Health, and Technology](https://healthtech.upenn.edu/),  on the Executive Committee for the [Community Collaboratory for Co-Creation (Penn4c)](https://www.penn4c.org/),  the SEAS Faculty Advisor for [Penn Bootcamp](https://bootcamp.sas.upenn.edu/), and the Director of the [Medical Device Club](https://rtg.cis.upenn.edu/meddevclub/).)
 
