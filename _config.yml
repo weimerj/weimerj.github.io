@@ -9,10 +9,10 @@ name: James Weimer
 author: James Weimer
 
 # Short bio or description (displayed in the header)
-description: University of Pennsylvania
+description: Vanderbilt University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/UniversityofPennsylvania_Shield_RGB.png
+avatar: /images/Vanderbilt_V.png
 
 #
 # Flags below are optional
@@ -33,11 +33,11 @@ footer-links:
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  telephone: 215-573-0309
+  telephone: # 215-573-0309
   playconsole:
-  address: https://goo.gl/maps/hHQHjP2iz3Ydg3Zr7
+  address: # https://goo.gl/maps/hHQHjP2iz3Ydg3Zr7
   fax:
-  office: 160 Levine
+  office: # 160 Levine
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
