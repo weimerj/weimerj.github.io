@@ -17,7 +17,7 @@ permalink: /publications/
 
 0. Radoslav Ivanov, Taylor J. Carpenter, James Weimer, Rajeev Alur, George J. Pappas, and Insup Lee.
    "[Verifying the Safety of Autonomous Systems with Neural Network Controllers](../pdf/2021-verisig-journal.pdf)." 
-   _ACM Transactions on Embedded Computing Systems (TECS)_, 2020.
+   _ACM Transactions on Embedded Computing Systems (TECS)_, 2021. **(Best Paper Award)**
    
 0. Susan Kohl Malone, Amy J. Peleckis, Laura Grunin, Gary Yu, Sooyong Jang, James Weimer, Insup Lee, Michael R. Rickels, and Namni Goel.
    "[Characterizing Glycemic Control and Sleep in Adults with Long-Standing Type 1 Diabetes and Hypoglycemia Unawareness Initiating Hybrid Closed Loop Insulin Delivery.](../pdf/2021-diabetes.pdf)."
