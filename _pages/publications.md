@@ -351,11 +351,15 @@ permalink: /publications/
 
 ## Technical Reports
 
+0. James Weimer.
+   "[Analysis of a Postpartum HJemorrhage Prediction Algorithm](../pdf/2022-PPH-analysis.pdf)."
+   2022.
+
 0. Somali Chaterji, Parinaz Naghizadeh, Muhammad Ashraful Alam, Saurabh Bagchi,Mung Chiang, David Corman, 
    Brian Henz, Suman Jana, Na Li, Shaoshuai Mou, MeekoOishi, Chunyi Peng, Tiark Rompf, Ashutosh Sabharwal,
    Shreyas Sundaram, James Weimer, Jennifer Weller. 
    "[Resilient Cyberphysical Systems and Their Application Drivers: A Technology Roadmap](https://arxiv.org/abs/2001.00090)."
-   _Arxiv_, 2019. 
+   _arXiv_, 2019. 
 
 0. Luan Nguyen, Guatam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, Rajeev Alur.
    "[REAFFIRM: Model-Based Repair of Hybrid Systems for Improving Resiliency](../pdf/2019-Reaffirm.pdf)."
