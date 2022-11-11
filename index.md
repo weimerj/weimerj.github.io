@@ -31,7 +31,7 @@ Curriculum Vitae:
 , [\[pdf -- slow to load\]](https://docs.google.com/document/d/1EQl2s3BoANuAim8K9TKIvynIvNYlvM-RUOQbJUT6anc/export?format=pdf)
 
 ## News
-- [Neuralert](https://www.neuralerttechnologies.com/news#h.qm1f4v92tzh5) stroke detector named a [TIME 2022 Best Invention](https://time.com/best-inventions-2022/) 
+- [Neuralert](https://www.neuralerttechnologies.com/news#h.qm1f4v92tzh5) stroke detector named a [TIME 2022 Best Invention](https://time.com/best-inventions-2022/) in the Medical Care category.
 - [Verisig](pdf/2021-verisig-journal.pdf) selected as the 2022 _ACM Transactions on Embedded Computing Systems (TECS)_ Best Paper 
 - [Vasowatch](https://vasowatch.com) received a Phase 1 NIH STTR Grant
 - [RT-ACL](pdf/2021-RT-ACL.pdf) selected as a Best Paper Award Finalist at [IEEE/ACM CHASE](https://conferences.computer.org/chase2021/)
