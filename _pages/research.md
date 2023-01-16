@@ -43,6 +43,7 @@ time-varying, uncertain, unstructured, and adversarial environments.
 
 
 ### Current Projects
+- [Momitor: Wearable Technology for Early Detection of Postpartum Hemorrhage (NIH STTR)](https://reporter.nih.gov/search/y7_IQE9dSECym8C5PO0xzg/project-details/10483278)
 - [SCC-IRG JST: Active sensing and personalized interventions for pandemic-induced social isolation (NSF SCC)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2125561&HistoricalAwards=false)
 - [Robust Concept Learning and Lifelong adaptation against adversarial attacks (ARO MURI)](https://aro-muri2020.seas.upenn.edu/index.html)
 - [AutoWean: Foundations of Autonomous Medical CPS for Mechanical Ventilation Weaning (NIH RO1)](https://projectreporter.nih.gov/project_info_description.cfm?aid=9985370&icde=47046182&ddparam=&ddvalue=&ddsub=&cr=1&csb=default&cs=ASC&pball=)
