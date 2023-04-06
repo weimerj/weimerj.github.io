@@ -15,6 +15,38 @@ permalink: /publications/
 
 ## Journal Publications
 
+0. Steven R Messe, Scott E Kasner, Brett L Cucchiara, Michael L McGarvey, Stephanie Cummings, Michael A Acker, Nimesh Desai, Pavan Atluri, Grace J Wang, Benjamin M Jackson, James Weimer.
+   "[Derivation and Validation of an Algorithm to Detect Stroke Using Arm Accelerometry Data](../pdf/2023-JAHA.pdf)." 
+   _Journal of the American Heart Association_, (2023)
+
+0. Flatt, Anneliese J., Amy J. Peleckis, Cornelia Dalton-Bakes, Huong-Lan Nguyen, Sarah Ilany, B. S. N. Austin Matus, Susan K. Malone, Namni Goel, Sooyong Jang, James Weimer, Insup Lee, and Michael R. Rickels.
+   "[Automated Insulin Delivery for Hypoglycemia Avoidance and Glucose Counterregulation in Long-Standing Type 1 Diabetes with Hypoglycemia Unawareness](../pdf/2023-dtt.pdf)." 
+   _Diabetes Technology & Therapeutics_, (2023)
+
+0. Sydney Pugh, Ivan Ruchkin, Christopher Bonafide, Sara Demauro, Oleg Sokolsky, Insup Lee, James Weimer.
+   "[Evaluating Alarm Classifiers with High-confidence Data Programming](../pdf/2022-acm-health.pdf)." 
+   _ACM Transactions on Computing for Healthcare_, (2022)
+
+0. Stefanie Modri, Kimberly Trout, James Weimer, Amanda Watson.
+   "[Observational Clinical Outcomes of a Postpartum Hemorrhage Detection Device Development Study](../pdf/2022-jognn.pdf)." 
+   _Journal of Obstetric, Gynecologic & Neonatal Nursing_, (2022)
+
+0. Heidi M Herrick, Molly Passarella, James Weimer, Christopher P Bonafide, Sara B DeMauro.
+   "[Alarm Burden in Infants With Bronchopulmonary Dysplasia Monitored With Pulse Oximetry at Home](../pdf/2022-jama.pdf)." 
+   _JAMA Network Open_, (2022)
+
+0. Stephanie Cummings, Scott E Kasner, Michael Mullen, Andrew Olsen, Michael McGarvey, James Weimer, Ben Jackson, Nimesh Desai, Michael Acker, Steven R Messe.
+   "[Delays in the Identification and Assessment of in-Hospital Stroke Patients](../pdf/2022-stroke.pdf)." 
+   _Journal of Stroke and Cerebrovascular Diseases_, (2022)
+
+0. Steven R Messe, Scott E Kasner, Michael T Mullen, Stephanie Cummings, Lee Leibowitz, James Weimer, Nimesh Desai, Michael A Acker.
+   "[The Impact Of Stroke On Cost And Length Of Stay After Cardiac Surgery.](https://www.ahajournals.org/doi/abs/10.1161/str.53.suppl_1.TP120)." 
+   _Stroke_, (2022)
+
+0. Anneliese Flatt, Amy J Peleckis, Cornelia V Dalton-Bakes, Huong-Lan T Nguyen, Sarah Ilany, Austin M Matus, Susan K Malone, Sooyong Jang, James Weimer, Insup Lee, Michael R Rickels.
+   "[Effect of Automated Insulin Delivery on Glucose Counterregulation in Long-Standing Type 1 Diabetes](https://diabetesjournals.org/diabetes/article/71/Supplement_1/162-OR/145496)." 
+   _Diabetes_, (2022)
+
 0. Radoslav Ivanov, Taylor J. Carpenter, James Weimer, Rajeev Alur, George J. Pappas, and Insup Lee.
    "[Verifying the Safety of Autonomous Systems with Neural Network Controllers](../pdf/2021-verisig-journal.pdf)." 
    _ACM Transactions on Embedded Computing Systems (TECS)_, 2021. **(Best Paper Award)**
@@ -89,6 +121,10 @@ permalink: /publications/
 
 ## Book Chapters
 
+0. Vivian Lin, Radoslav Ivanov, James Weimer, Oleg Sokolsky, and Insup Lee.
+   "[T4V: Exploring Neural Network Architectures that Improve the Scalability of Neural Network Verification](../pdf/2022-henzinger.pdf)"
+   _Principles of Systems Design: Essays Dedicated to Thomas A. Henzinger on the Occasion of His 60th Birthday_, pp. 585-603. Cham: Springer Nature Switzerland, 2022.
+
 0. Mauricio Novelo, Nalaka Gooneratne, and James Weimer.
    "[Digital Health: Software as a Medical Device](../pdf/2019-SaMD-book.pdf)"
    _Academic Entrepreneurship for Medical and Health Scientists_, 2019. 
@@ -104,6 +140,34 @@ permalink: /publications/
    
 
 ## Conference Publications
+
+0. Souradeep Dutta, Kaustubh Sridhar, Osbert Bastani, Edgar Dobriban, James Weimer, Insup Lee, and Julia Parish-Morris.  
+   "[Exploring with sticky mittens: Reinforcement learning with expert interventions via option templates](../pdf/2023-corl.pdf)."
+   _In Conference on Robot Learning_, pp. 1499-1509. PMLR, 2023.
+
+0. Amanda Watson, Claire Kendell, Anush Lingamoorthy, Insup Lee, James Weimer.  
+   "[Lumos: An Open-Source Device for Wearable Spectroscopy Research](../pdf/2023-imwut.pdf)."
+   _Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies_ 6, no. 4 (2023): 1-24.
+
+0. Claire Kendell, Amanda Watson, Insup Lee, James Weimer.  
+   "[GlucoScan: Noninvasive Glucose Monitoring Device](../pdf/2022-chase-gluco.pdf)."
+   _In 2022 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)_, pp. 182-183. IEEE, 2022.
+
+0. Jean Park, Amanda Watson, Xiayan Ji, Kyle C Quinn, James Weimer, Insup Lee.  
+   "[AutoWean: Extubation Failure Risk Estimation for Critically Ill Patients](../pdf/2022-chase-autowean.pdf)."
+   _In 2022 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)_, pp. 182-183. IEEE, 2022.
+
+0. Anush Lingamoorthy, Amanda Watson, Ethan Donlon, James Weimer, Jacob S Brenner.  
+   "[DOVE: Noninvasive Shoulder-based Opioid Overdose Detection Device](../pdf/2022-chase-dove.pdf)."
+   _In 2022 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)_, pp. 182-183. IEEE, 2022.
+
+0. Amanda Watson, Jean Park, Sydney Pugh, Oleg Sokolsky, James Weimer, Insup Lee.  
+   "[Medical Cyber-Physical Systems: IoMT Applications and Challenges](../pdf/2022-alisomar.pdf)."
+   _56th Asilomar Conference on Signals, Systems, and Computers_, 2022.
+
+0. Kaustubh Sridhar, Oleg Sokolsky, Insup Lee, James Weimer.
+   "[Improving Neural Network Robustness via Persistency of Excitation](../pdf/2022-acc.pdf)."
+   _American Control Conference (ACC)_, 2022.
 
 0. Amanda Watson, Pengyuan Lu, Elliot Greenberg, J. Todd R. Lawrence, Theodore J. Ganley, Insup Lee, and James Weimer. 
    "[RT-ACL: Identification of High-Risk Youth Patients and their Most Significant Risk Factors to Reduce Anterior Cruciate Ligament Reinjury Risk](../pdf/2021-RT-ACL.pdf)."
@@ -351,9 +415,29 @@ permalink: /publications/
 
 ## Technical Reports
 
+0. Kaustubh Sridhar, Souradeep Dutta, James Weimer, Insup Lee.
+   "[Guaranteed Conformance of Neurosymbolic Models to Natural Constraints](../pdf/2023-plmr-arxiv.pdf)."
+   _arXiv preprint arXiv:2212.01346_, 2022.
+
 0. James Weimer.
-   "[Analysis of a Postpartum HJemorrhage Prediction Algorithm](../pdf/2022-PPH-analysis.pdf)."
+   "[Analysis of a Postpartum Hemorrhage Prediction Algorithm](../pdf/2022-PPH-analysis.pdf)."
    2022.
+
+0. Matthew Chan, Nathaniel Snyder, Marcus Lucas, Luis Garcia, Oleg Sokolsky, James Weimer, Insup Lee, Paulo Tabuada, Saman Zonouz, Mani Srivastava.
+   "[Let's Talk Through Physics! Covert Cyber-Physical Data Exfiltration on Air-Gapped Edge Devices](../pdf/2022-security-arxiv.pdf)."
+   _arXiv preprint arXiv:2210.07531_, 2022.
+
+0. Vivian Lin, James Weimer, Insup Lee.
+   "[Narrowing the Gap: Towards Analyzable and Realistic Simulators for Safety Analysis of Neural Network Control Systems](../pdf/2022-pkdd.pdf)."
+   _Workshop on Trustworthy Artificial Intelligence as a part of the ECML/PKDD_, 2022.
+
+0. Kaustubh Sridhar, Souradeep Dutta, Ramneet Kaur, James Weimer, Oleg Sokolsky, Insup Lee.
+   "[Towards Alternative Techniques for Improving Adversarial Robustness: Analysis of Adversarial Training at a Spectrum of Perturbations](../pdf/2022-advrob-arxiv.pdf)."
+   _arXiv preprint arXiv:2206.06496_, 2022.
+
+0. Kaustubh Sridhar, Radoslav Ivanov, Vuk Lesi, Marcio Juliato, Manoj Sastry, Lily Yang, James Weimer, Oleg Sokolsky, Insup Lee.
+   "[A Framework for Checkpointing and Recovery of Hierarchical Cyber-Physical Systems](../pdf/2022-checkpointing-arxiv.pdf)."
+   _arXiv preprint arXiv:2205.08650_, 2022.
 
 0. Somali Chaterji, Parinaz Naghizadeh, Muhammad Ashraful Alam, Saurabh Bagchi,Mung Chiang, David Corman, 
    Brian Henz, Suman Jana, Na Li, Shaoshuai Mou, MeekoOishi, Chunyi Peng, Tiark Rompf, Ashutosh Sabharwal,
