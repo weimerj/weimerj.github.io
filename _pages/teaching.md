@@ -5,6 +5,8 @@ permalink: /teaching/
 
 
 ## Courses
+- CS 8395: Special Topics - Internet-of-Medical-Things (Spring 2024)
+- [ES 140x: Introduction to Engineering](https://engineering.vanderbilt.edu/ge/es140/) (Fall 2023)
 - CS 8395: Special Topics - Internet-of-Medical-Things (Spring 2023)
 - [ES 140x: Introduction to Engineering](https://engineering.vanderbilt.edu/ge/es140/) (Fall 2022)
 - [Special Topics in Safe Autonomy](https://rtg.cis.upenn.edu/cis700-2019/index.html) (Co-instructor: Spring 2019)
