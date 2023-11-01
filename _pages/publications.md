@@ -141,6 +141,18 @@ permalink: /publications/
 
 ## Conference Publications
 
+0. Anush Lingamoorthy, Amanda Watson, Korey Henderson, Ayan Mandal, David Gordon, Xiaonan Ma, James Weimer, Nagarajan Kandasamy, and Jacob S. Brenner. 
+   "[Dove: shoulder-based opioid overdose detection and reversal device](../pdf/2023-chase.pdf)." 
+   _In 2023 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)_, pp. 56-67. IEEE, 2023.
+
+0. Kaustubh Sridhar, Souradeep Dutta, James Weimer, and Insup Lee. 
+   "[Guaranteed Conformance of Neurosymbolic Models to Natural Constraints](../pdf/2023-l4dc.pdf)." 
+   _In Learning for Dynamics and Control Conference_, pp. 76-89. PMLR, 2023.
+
+0. Kaustubh Sridhar, Souradeep Dutta, James Weimer, and Insup Lee. 
+   "[Guaranteed Conformance of Neurosymbolic Models to Natural Constraints](../pdf/2023-l4dc.pdf)." 
+   _In Learning for Dynamics and Control Conference_, pp. 76-89. PMLR, 2023.
+
 0. Souradeep Dutta, Kaustubh Sridhar, Osbert Bastani, Edgar Dobriban, James Weimer, Insup Lee, and Julia Parish-Morris.  
    "[Exploring with sticky mittens: Reinforcement learning with expert interventions via option templates](../pdf/2023-corl.pdf)."
    _In Conference on Robot Learning_, pp. 1499-1509. PMLR, 2023.
