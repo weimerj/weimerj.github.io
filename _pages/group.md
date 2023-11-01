@@ -4,25 +4,19 @@ permalink: /group/
 ---
 
 ### Current Group
-- Taylor Carpenter 
-  -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
-- Kuk Jang
-  -- _Postdoctoral Researcher (co-advised w/ Insup Lee)_  
-- Sooyong Jang 
-  -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
-- [Shawn Li](https://fling.seas.upenn.edu/~xianl/wiki)
-  -- _Postdoctoral Researcher (co-advised w/ Insup Lee)_
-- Pengyuan (Eric) Lu 
+- Chi Phuong Ngoc Huynh
+  -- _Ph.D. Graduate Student_
+- [Sooyong Jang](https://sooyongj.github.io/){:target="_blank"} 
+  -- _Ph.D. Graduate Student (co-advised w/ Insup Lee and Osbert Bastani)_
+- [Sydney Pugh](https://sfpugh.github.io/){:target="_blank"}
   -- _Ph.D. Graduate Student  (co-advised w/ Insup Lee)_
-- Sydney Pugh 
-  -- _Ph.D. Graduate Student  (co-advised w/ Insup Lee)_
-- [Kaustubh Sridhar](https://kaustubhsridhar.github.io/)
-  -- _Ph.D. Graduate Student (co-advised w/ Insup Lee)_
-- [Amanda Watson](https://fling.seas.upenn.edu/~aawatson) 
-  -- _Postdoctoral Researcher (co-advised w/ Insup Lee)_
 
 
 ### Alumni
-- [Radoslav Ivanov](https://www.seas.upenn.edu/~rivanov){:target="_blank"}
-  -- _Assistant professor, Department of Computer Science, Rensselaer Polytechnic University_
+- [Amanda Watson](https://www.linkedin.com/in/amandawatson22/){:target="_blank"}
+- [Kuk Jang](https://www.linkedin.com/in/kuk-jin-jang-9a971014/){:target="_blank"}
+- [Shawn Li](https://www.linkedin.com/in/xian-li-51034b135/){:target="_blank"}
+- [Taylor Carpenter](https://www.linkedin.com/in/taylorjcarpenter/){:target="_blank"}
+- [Radoslav Ivanov](https://www.linkedin.com/in/radoslav-ivanov-16869922/){:target="_blank"}
+
 
