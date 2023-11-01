@@ -5,7 +5,7 @@ permalink: /
 
 ![James Weimer](images/weimer-small.png  "James Weimer"){: style="float: left; margin-right: 1em; border-radius: 50%; max-height: 25em"}
 
-## <span style="color:red">I am hiring PhD students for Fall 2024 -- if interested, please mention my name in your application</span>.
+## <span style="color:red">I am hiring PhD students -- if interested, please mention my name in your application</span>.
 
 I am an Assistant Professor in the 
 [Department of Computer Science](https://engineering.vanderbilt.edu/cs/)
