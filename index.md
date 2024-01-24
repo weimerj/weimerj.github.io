@@ -5,7 +5,9 @@ permalink: /
 
 ![James Weimer](images/weimer-small.png  "James Weimer"){: style="float: left; margin-right: 1em; border-radius: 50%; max-height: 25em"}
 
-## <span style="color:red">I am hiring PhD students -- if interested, please mention my name in your application</span>.
+<!--
+<span style="color:red">I am hiring PhD students -- if interested, please mention my name in your application</span>.
+-->
 
 I am an Assistant Professor in the 
 [Department of Computer Science](https://engineering.vanderbilt.edu/cs/)
@@ -17,8 +19,10 @@ I am the Director of the [Internet of Medical Things (IoMT) Lab]() and the [Medi
 My research develops foundations and tools for safety guarantees and predictable performance of 
 learning-enabled cyber-physical systems (CPS) - primarily targeting the **internet-of-medical-things** (IoMT) and
 **autonomous vehicles** (AVs). Specifically, my research aims to develop tools and techniques to address 
-challenges arising from _"data constraints"_, which can be caused by unmodeled variability, dataset shifts, 
-anomalies, and sensing limitations. Find out more [here](/research){: target="_self"}. 
+challenges arising from real-world data constraints, which can be caused by unmodeled variability, dataset shifts, 
+anomalies, and sensing limitations. We seek to overcome data constraints by improving data generation through 
+better experimental design, increased data efficiency, and novel analysis techniques.  
+Find out more [here](/research){: target="_self"}. 
 
 I am a Co-Founder of 
 [Neuralert Technologies](https://www.neuralerttechnologies.com/)
