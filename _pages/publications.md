@@ -141,9 +141,13 @@ permalink: /publications/
 
 ## Conference Publications
 
+0. Kimberly K. Trout, Stefanie Modri, Amanda Watson, Insup Lee, Harish Sehdev, and James Weimer.
+   "[VIBRANT: Early Prediction of Life-Threatening Uterine Atony Using Maternal Heart Rate](../pdf/2025-chase.pdf)."
+   _In ACM/IEEE International Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE'25)_. ACM, 2025.
+
 0. Anush Lingamoorthy, Amanda Watson, Korey Henderson, Ayan Mandal, David Gordon, Xiaonan Ma, James Weimer, Nagarajan Kandasamy, and Jacob S. Brenner. 
    "[Dove: shoulder-based opioid overdose detection and reversal device](../pdf/2023-chase.pdf)." 
-   _In 2023 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE)_, pp. 56-67. IEEE, 2023.
+   _In IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE'23)_, pp. 56-67. IEEE, 2023.
 
 0. Kaustubh Sridhar, Souradeep Dutta, James Weimer, and Insup Lee. 
    "[Guaranteed Conformance of Neurosymbolic Models to Natural Constraints](../pdf/2023-l4dc.pdf)." 
