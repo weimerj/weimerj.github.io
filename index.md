@@ -14,7 +14,7 @@ I am an Assistant Professor in the
 at Vanderbilt University. 
 I am a member of the [Institute for Software Integrated Systems](https://www.isis.vanderbilt.edu/), 
 and the [Vanderbilt Institute for Surgery and Engineering](https://www.vanderbilt.edu/vise/). 
-I am the Director of the [Internet of Medical Things (IoMT) Lab]() and the [Medical Device Club]().
+I am the Director of the [Internet of Medical Things (IoMT) Lab](https://lab.vanderbilt.edu/iomt-lab/) and the [Medical Device Club](https://med-dev.club).
 
 My research develops foundations and tools for safety guarantees and predictable performance of 
 learning-enabled cyber-physical systems (CPS) - primarily targeting the **internet-of-medical-things** (IoMT) and
